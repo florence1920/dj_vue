@@ -1,0 +1,36 @@
+{
+  "status": "done",
+  "assets": {
+    "img/logo.82b9c7a5.png": {
+      "name": "img/logo.82b9c7a5.png",
+      "path": "D:\\lshDev\\semoview\\venv\\Scripts\\django-vue\\dist\\img\\logo.82b9c7a5.png",
+      "publicPath": "http://127.0.0.1:8080/img/logo.82b9c7a5.png"
+    },
+    "js/about.js": {
+      "name": "js/about.js",
+      "path": "D:\\lshDev\\semoview\\venv\\Scripts\\django-vue\\dist\\js\\about.js",
+      "publicPath": "http://127.0.0.1:8080/js/about.js"
+    },
+    "js/index.js": {
+      "name": "js/index.js",
+      "path": "D:\\lshDev\\semoview\\venv\\Scripts\\django-vue\\dist\\js\\index.js",
+      "publicPath": "http://127.0.0.1:8080/js/index.js"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "D:\\lshDev\\semoview\\venv\\Scripts\\django-vue\\dist\\index.html",
+      "publicPath": "http://127.0.0.1:8080/index.html"
+    },
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "D:\\lshDev\\semoview\\venv\\Scripts\\django-vue\\dist\\favicon.ico",
+      "publicPath": "http://127.0.0.1:8080/favicon.ico"
+    }
+  },
+  "chunks": {
+    "index": [
+      "js/index.js"
+    ]
+  },
+  "publicPath": "http://127.0.0.1:8080/"
+}
